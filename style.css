@@ -109,6 +109,6 @@ h5 {
 .ggg {
         background-color : black;
         color: white;
-        cursor: not-allowed;
-        font-size: 100px;
+        cursor: search;
+        font-size: 30px;
 }
